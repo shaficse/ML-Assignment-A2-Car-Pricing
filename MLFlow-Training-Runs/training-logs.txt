@@ -1,0 +1,834 @@
+===== Reg: Polynomial Method: batch Momentum: 0 Theta Init: zero Learning Rate: 0.01 =====
+Fold 0: inf
+Fold 1: inf
+Fold 2: 2.3708202020161933
+Test MSE:  1.4657978546492334
+Test r2:  0.026971715515744288
+===== Reg: Polynomial Method: batch Momentum: 0 Theta Init: zero Learning Rate: 0.001 =====
+Fold 0: 10.350652842555547
+Fold 1: 10.266768238917093
+Fold 2: 10.842259470157384
+Test MSE:  10.333504434537542
+Test r2:  -0.3713514135643001
+===== Reg: Polynomial Method: batch Momentum: 0 Theta Init: zero Learning Rate: 0.0001 =====
+Fold 0: 87.45091303534744
+Fold 1: 86.85162088986071
+Fold 2: 93.27783781513736
+Test MSE:  85.92243166857507
+Test r2:  -37.92546603296297
+===== Reg: Polynomial Method: batch Momentum: 0.9 Theta Init: zero Learning Rate: 0.01 =====
+Fold 0: inf
+Fold 1: inf
+Fold 2: 10.860576704123778
+Test MSE:  10.329991998563896
+Test r2:  -0.3922205118613149
+===== Reg: Polynomial Method: batch Momentum: 0.9 Theta Init: zero Learning Rate: 0.001 =====
+...
+Test MSE:  inf
+Test r2:  nan
+===== Reg: Polynomial Method: sto Momentum: 0.9 Theta Init: zero Learning Rate: 0.001 =====
+Fold 0: inf
+Output is truncated. View as a scrollable element or open in a text editor. Adjust cell output settings...
+Fold 1: inf
+Fold 2: inf
+Test MSE:  2.986881851272198e+304
+Test r2:  -0.029333533295924807
+===== Reg: Polynomial Method: sto Momentum: 0.9 Theta Init: zero Learning Rate: 0.0001 =====
+Fold 0: inf
+Fold 1: inf
+Fold 2: 1.9541352058641377e+263
+Test MSE:  4.44662558094392e+260
+Test r2:  -0.11461495433505875
+===== Reg: Polynomial Method: mini Momentum: 0 Theta Init: zero Learning Rate: 0.01 =====
+Fold 0: inf
+Fold 1: inf
+Fold 2: inf
+Test MSE:  7.295652572464269e+304
+Test r2:  -0.03813642988745003
+===== Reg: Polynomial Method: mini Momentum: 0 Theta Init: zero Learning Rate: 0.001 =====
+Fold 0: inf
+Fold 1: inf
+Fold 2: inf
+Test MSE:  7.990929831465795e+303
+Test r2:  -0.024344689754583815
+===== Reg: Polynomial Method: mini Momentum: 0 Theta Init: zero Learning Rate: 0.0001 =====
+Fold 0: 7.772398286136436e+19
+Fold 1: inf
+Fold 2: 1.6687960193283555
+Test MSE:  1.0904716633543525
+Test r2:  0.09789216208645257
+===== Reg: Polynomial Method: mini Momentum: 0.9 Theta Init: zero Learning Rate: 0.01 =====
+Fold 0: inf
+Fold 1: inf
+Fold 2: inf
+Test MSE:  1.2070713119043855e+304
+Test r2:  -0.05130834821243657
+===== Reg: Polynomial Method: mini Momentum: 0.9 Theta Init: zero Learning Rate: 0.001 =====
+Fold 0: 3.736064514386402e+19
+Fold 1: inf
+Fold 2: 10.156808509206241
+Test MSE:  9.62008340482657
+Test r2:  -0.33386199338483546
+===== Reg: Polynomial Method: mini Momentum: 0.9 Theta Init: zero Learning Rate: 0.0001 =====
+Fold 0: 8.75303174104078
+Fold 1: 8.780348837154119
+Fold 2: 9.38755888854444
+Test MSE:  8.741966922290125
+Test r2:  -0.2915323128923182
+===== Reg: Polynomial Method: batch Momentum: 0 Theta Init: xavier Learning Rate: 0.01 =====
+Fold 0: inf
+Fold 1: inf
+Fold 2: 2.366055464988141
+Test MSE:  1.4646575754728464
+Test r2:  0.02654951422802998
+===== Reg: Polynomial Method: batch Momentum: 0 Theta Init: xavier Learning Rate: 0.001 =====
+Fold 0: 10.39299231772234
+Fold 1: 10.299327510797516
+Fold 2: 10.87476194335874
+Test MSE:  10.360443973914764
+Test r2:  -0.3703128932687094
+===== Reg: Polynomial Method: batch Momentum: 0 Theta Init: xavier Learning Rate: 0.0001 =====
+Fold 0: 88.89202667670625
+Fold 1: 88.27538716830651
+Fold 2: 95.02855341043333
+Test MSE:  87.29119612559785
+Test r2:  -41.57803115419487
+===== Reg: Polynomial Method: batch Momentum: 0.9 Theta Init: xavier Learning Rate: 0.01 =====
+Fold 0: inf
+Fold 1: inf
+Fold 2: 10.896069405213574
+Test MSE:  10.359078377666446
+Test r2:  -0.39126749520104975
+===== Reg: Polynomial Method: batch Momentum: 0.9 Theta Init: xavier Learning Rate: 0.001 =====
+Fold 0: 88.27921095217383
+Fold 1: 87.68723524292292
+Fold 2: 94.3464336786017
+Test MSE:  86.74363067448368
+Test r2:  -40.8814583130096
+===== Reg: Polynomial Method: batch Momentum: 0.9 Theta Init: xavier Learning Rate: 0.0001 =====
+Fold 0: 160.84700821503836
+Fold 1: 160.10414947373454
+Fold 2: 160.5894599691982
+Test MSE:  159.80509753118542
+Test r2:  -8099.973814531091
+===== Reg: Polynomial Method: sto Momentum: 0 Theta Init: xavier Learning Rate: 0.01 =====
+Fold 0: inf
+Fold 1: inf
+Fold 2: inf
+Test MSE:  inf
+Test r2:  nan
+===== Reg: Polynomial Method: sto Momentum: 0 Theta Init: xavier Learning Rate: 0.001 =====
+Fold 0: inf
+Fold 1: inf
+Fold 2: inf
+Test MSE:  inf
+Test r2:  nan
+===== Reg: Polynomial Method: sto Momentum: 0 Theta Init: xavier Learning Rate: 0.0001 =====
+Fold 0: inf
+Fold 1: inf
+Fold 2: inf
+Test MSE:  2.416395898388023e+304
+Test r2:  -0.00833948342472568
+===== Reg: Polynomial Method: sto Momentum: 0.9 Theta Init: xavier Learning Rate: 0.01 =====
+Fold 0: inf
+Fold 1: inf
+Fold 2: inf
+Test MSE:  inf
+Test r2:  nan
+===== Reg: Polynomial Method: sto Momentum: 0.9 Theta Init: xavier Learning Rate: 0.001 =====
+Fold 0: inf
+Fold 1: inf
+Fold 2: inf
+Test MSE:  6.877169690661299e+304
+Test r2:  -0.02965510683104955
+===== Reg: Polynomial Method: sto Momentum: 0.9 Theta Init: xavier Learning Rate: 0.0001 =====
+Fold 0: inf
+Fold 1: inf
+Fold 2: 1.2812092898980808e+263
+Test MSE:  3.226465939001495e+260
+Test r2:  -0.1584249008264791
+===== Reg: Polynomial Method: mini Momentum: 0 Theta Init: xavier Learning Rate: 0.01 =====
+Fold 0: inf
+Fold 1: inf
+Fold 2: inf
+Test MSE:  3.021516343326111e+304
+Test r2:  -0.03206554746685608
+===== Reg: Polynomial Method: mini Momentum: 0 Theta Init: xavier Learning Rate: 0.001 =====
+Fold 0: inf
+Fold 1: inf
+Fold 2: inf
+Test MSE:  inf
+Test r2:  nan
+===== Reg: Polynomial Method: mini Momentum: 0 Theta Init: xavier Learning Rate: 0.0001 =====
+Fold 0: 1.7455713905747873e+21
+Fold 1: inf
+Fold 2: 1.665864356618979
+Test MSE:  1.0896537214274558
+Test r2:  0.09774541209297183
+===== Reg: Polynomial Method: mini Momentum: 0.9 Theta Init: xavier Learning Rate: 0.01 =====
+Fold 0: inf
+Fold 1: inf
+Fold 2: inf
+Test MSE:  5.315756571401685e+304
+Test r2:  -0.10154136097446109
+===== Reg: Polynomial Method: mini Momentum: 0.9 Theta Init: xavier Learning Rate: 0.001 =====
+Fold 0: 2.8848599390672507e+19
+Fold 1: inf
+Fold 2: 6.322433165019276
+Test MSE:  4.8515101229923605
+Test r2:  -0.18259610225265144
+===== Reg: Polynomial Method: mini Momentum: 0.9 Theta Init: xavier Learning Rate: 0.0001 =====
+Fold 0: 8.782515836961485
+Fold 1: 11.256904359944034
+Fold 2: 9.702914492630715
+Test MSE:  9.090540726018325
+Test r2:  -0.30503380139431324
+===== Reg: Lasso Method: batch Momentum: 0 Theta Init: zero Learning Rate: 0.01 =====
+Fold 0: 2.9697114727232465
+Fold 1: 2.8299987487220024
+Fold 2: 2.8907778251066376
+Test MSE:  2.658514055113216
+Test R2 -0.1814416792419007
+===== Reg: Lasso Method: batch Momentum: 0 Theta Init: zero Learning Rate: 0.001 =====
+Fold 0: 29.501696871429875
+Fold 1: 28.961228566690952
+Fold 2: 29.162055074557856
+Test MSE:  28.49541591760821
+Test R2 -18.633443407381055
+===== Reg: Lasso Method: batch Momentum: 0 Theta Init: zero Learning Rate: 0.0001 =====
+Fold 0: 140.49842485963563
+Fold 1: 139.8192003661585
+Fold 2: 139.99230993755052
+Test MSE:  139.54751479745704
+Test R2 -3482.949306584272
+===== Reg: Lasso Method: batch Momentum: 0.9 Theta Init: zero Learning Rate: 0.01 =====
+Fold 0: 29.468964423797562
+Fold 1: 28.93038683668724
+Fold 2: 29.13114621701978
+Test MSE:  28.466561870664993
+Test R2 -18.74481481947109
+===== Reg: Lasso Method: batch Momentum: 0.9 Theta Init: zero Learning Rate: 0.001 =====
+Fold 0: 140.0722013474544
+Fold 1: 139.39294850813934
+Fold 2: 139.56631780617198
+Test MSE:  139.1195139152941
+Test R2 -3372.0862907080173
+===== Reg: Lasso Method: batch Momentum: 0.9 Theta Init: zero Learning Rate: 0.0001 =====
+Fold 0: 166.443927919154
+Fold 1: 165.76549317144693
+Fold 2: 165.92531758838805
+Test MSE:  165.61679243889748
+Test R2 -357247.4826704904
+===== Reg: Lasso Method: sto Momentum: 0 Theta Init: zero Learning Rate: 0.01 =====
+Fold 0: 0.19879277604714696
+Fold 1: 0.1771576507550788
+Fold 2: 0.20750734076105035
+Test MSE:  0.2098480985248158
+Test R2 0.38420081045543175
+===== Reg: Lasso Method: sto Momentum: 0 Theta Init: zero Learning Rate: 0.001 =====
+Fold 0: 0.20914067976177161
+Fold 1: 0.2021241100613439
+Fold 2: 0.19834830855409102
+Test MSE:  0.20258233180160506
+Test R2 0.4616002421089862
+===== Reg: Lasso Method: sto Momentum: 0 Theta Init: zero Learning Rate: 0.0001 =====
+Fold 0: 0.21226179961409736
+Fold 1: 0.204946205832677
+Fold 2: 0.2018482333074506
+Test MSE:  0.20500446452143067
+Test R2 0.41666007589239673
+===== Reg: Lasso Method: sto Momentum: 0.9 Theta Init: zero Learning Rate: 0.01 =====
+Fold 0: 0.2136312645105458
+Fold 1: 0.20469705842215294
+Fold 2: 0.20313416141763846
+Test MSE:  0.2062491827696204
+Test R2 0.4096867741454716
+===== Reg: Lasso Method: sto Momentum: 0.9 Theta Init: zero Learning Rate: 0.001 =====
+Fold 0: 0.21246338930057232
+Fold 1: 0.2050708657918584
+Fold 2: 0.20182876538273156
+Test MSE:  0.20490755740032013
+Test R2 0.4159226828309932
+===== Reg: Lasso Method: sto Momentum: 0.9 Theta Init: zero Learning Rate: 0.0001 =====
+Fold 0: 0.875778258668314
+Fold 1: 0.8088605978832233
+Fold 2: 0.8361467231539801
+Test MSE:  0.7732716648415624
+Test R2 -0.10122030328070486
+===== Reg: Lasso Method: mini Momentum: 0 Theta Init: zero Learning Rate: 0.01 =====
+Fold 0: 0.21238078926692192
+Fold 1: 0.20481430477905355
+Fold 2: 0.20178909870963155
+Test MSE:  0.20504699486060496
+Test R2 0.4169750237517704
+===== Reg: Lasso Method: mini Momentum: 0 Theta Init: zero Learning Rate: 0.001 =====
+Fold 0: 0.2127804266833967
+Fold 1: 0.20518903939734234
+Fold 2: 0.202111838133252
+Test MSE:  0.20529810943915258
+Test R2 0.4159307944801086
+===== Reg: Lasso Method: mini Momentum: 0 Theta Init: zero Learning Rate: 0.0001 =====
+Fold 0: 2.6430239691133375
+Fold 1: 2.5111330379590706
+Fold 2: 2.568502355392124
+Test MSE:  2.358343755472341
+Test R2 -0.1756502423107118
+===== Reg: Lasso Method: mini Momentum: 0.9 Theta Init: zero Learning Rate: 0.01 =====
+Fold 0: 0.21296163227682782
+Fold 1: 0.20844552982429107
+Fold 2: 0.20186012555167965
+Test MSE:  0.204929136448571
+Test R2 0.4188054599493516
+===== Reg: Lasso Method: mini Momentum: 0.9 Theta Init: zero Learning Rate: 0.001 =====
+Fold 0: 2.642945884512661
+Fold 1: 2.5109180904626207
+Fold 2: 2.5686268537272463
+Test MSE:  2.3584798521961905
+Test R2 -0.176081893397513
+===== Reg: Lasso Method: mini Momentum: 0.9 Theta Init: zero Learning Rate: 0.0001 =====
+Fold 0: 20.52647302358766
+Fold 1: 20.042977783449683
+Fold 2: 20.23163411224162
+Test MSE:  19.617386801953437
+Test R2 -10.11407441988215
+===== Reg: Lasso Method: batch Momentum: 0 Theta Init: xavier Learning Rate: 0.01 =====
+Fold 0: 2.96800851265807
+Fold 1: 2.8283211283690926
+Fold 2: 2.888880225383929
+Test MSE:  2.656271851466079
+Test R2 -0.18153100660226307
+===== Reg: Lasso Method: batch Momentum: 0 Theta Init: xavier Learning Rate: 0.001 =====
+Fold 0: 29.624709190976528
+Fold 1: 29.08783544848799
+Fold 2: 29.2875917923287
+Test MSE:  28.61993157376074
+Test R2 -18.750643883406337
+===== Reg: Lasso Method: batch Momentum: 0 Theta Init: xavier Learning Rate: 0.0001 =====
+Fold 0: 141.26290225385188
+Fold 1: 140.61279855919256
+Fold 2: 140.77014322881539
+Test MSE:  140.33307117229361
+Test R2 -3572.0946436388913
+===== Reg: Lasso Method: batch Momentum: 0.9 Theta Init: xavier Learning Rate: 0.01 =====
+Fold 0: 29.597905498609318
+Fold 1: 29.06155218841305
+Fold 2: 29.262561738267255
+Test MSE:  28.596913166854275
+Test R2 -18.863293946302342
+===== Reg: Lasso Method: batch Momentum: 0.9 Theta Init: xavier Learning Rate: 0.001 =====
+Fold 0: 140.840825604943
+Fold 1: 140.18262017051052
+Fold 2: 140.35730627479185
+Test MSE:  139.91850740600674
+Test R2 -3454.2042857132074
+===== Reg: Lasso Method: batch Momentum: 0.9 Theta Init: xavier Learning Rate: 0.0001 =====
+Fold 0: 167.376845549676
+Fold 1: 166.68861822256386
+Fold 2: 166.84932577176724
+Test MSE:  166.55161113487048
+Test R2 -128636.07998208846
+===== Reg: Lasso Method: sto Momentum: 0 Theta Init: xavier Learning Rate: 0.01 =====
+Fold 0: 0.21640473521843492
+Fold 1: 0.2176385091709927
+Fold 2: 0.20406877891785588
+Test MSE:  0.20690562720767677
+Test R2 0.43415686498628414
+===== Reg: Lasso Method: sto Momentum: 0 Theta Init: xavier Learning Rate: 0.001 =====
+Fold 0: 0.21469689899010064
+Fold 1: 0.20186211324541956
+Fold 2: 0.20275009227304192
+Test MSE:  0.2063574413822638
+Test R2 0.42544794171127087
+===== Reg: Lasso Method: sto Momentum: 0 Theta Init: xavier Learning Rate: 0.0001 =====
+Fold 0: 0.21240046831373952
+Fold 1: 0.20527082174334102
+Fold 2: 0.20221546793054782
+Test MSE:  0.205319066657699
+Test R2 0.4137979293880715
+===== Reg: Lasso Method: sto Momentum: 0.9 Theta Init: xavier Learning Rate: 0.01 =====
+Fold 0: 0.2033114466980491
+Fold 1: 0.20652542741866428
+Fold 2: 0.19838449203483613
+Test MSE:  0.20220087425990774
+Test R2 0.4531510507134
+===== Reg: Lasso Method: sto Momentum: 0.9 Theta Init: xavier Learning Rate: 0.001 =====
+Fold 0: 0.21262659434654663
+Fold 1: 0.20501921654547517
+Fold 2: 0.20190308632238296
+Test MSE:  0.20503919504435808
+Test R2 0.4165960374214206
+===== Reg: Lasso Method: sto Momentum: 0.9 Theta Init: xavier Learning Rate: 0.0001 =====
+Fold 0: 0.8755338642154652
+Fold 1: 0.8083991898612736
+Fold 2: 0.8357151976609257
+Test MSE:  0.772846035635865
+Test R2 -0.10137215772212183
+===== Reg: Lasso Method: mini Momentum: 0 Theta Init: xavier Learning Rate: 0.01 =====
+Fold 0: 0.2125324085709197
+Fold 1: 0.2038762768727872
+Fold 2: 0.20146780447146076
+Test MSE:  0.20469785546173824
+Test R2 0.42066859648335375
+===== Reg: Lasso Method: mini Momentum: 0 Theta Init: xavier Learning Rate: 0.001 =====
+Fold 0: 0.21242936807835025
+Fold 1: 0.2051587530633783
+Fold 2: 0.20193417606242123
+Test MSE:  0.20508073779221994
+Test R2 0.4161800275392019
+===== Reg: Lasso Method: mini Momentum: 0 Theta Init: xavier Learning Rate: 0.0001 =====
+Fold 0: 2.6414359322498773
+Fold 1: 2.5095417093267858
+Fold 2: 2.5670367627318806
+Test MSE:  2.3565981927242796
+Test R2 -0.1757911631010587
+===== Reg: Lasso Method: mini Momentum: 0.9 Theta Init: xavier Learning Rate: 0.01 =====
+Fold 0: 0.21261968704874357
+Fold 1: 0.2055445424279145
+Fold 2: 0.20164446358154367
+Test MSE:  0.20463948752581523
+Test R2 0.4183354563903805
+===== Reg: Lasso Method: mini Momentum: 0.9 Theta Init: xavier Learning Rate: 0.001 =====
+Fold 0: 2.6410740096465513
+Fold 1: 2.5090159474497393
+Fold 2: 2.5670139597475488
+Test MSE:  2.3565843432159617
+Test R2 -0.17597348188585005
+===== Reg: Lasso Method: mini Momentum: 0.9 Theta Init: xavier Learning Rate: 0.0001 =====
+Fold 0: 20.60304798583006
+Fold 1: 20.120299780192898
+Fold 2: 20.306504182694226
+Test MSE:  19.690717397748138
+Test R2 -10.170219400271431
+===== Reg: Ridge Method: batch Momentum: 0 Theta Init: zero Learning Rate: 0.01 =====
+Fold 0: 5.1367703125415725
+Fold 1: 4.954858550992618
+Fold 2: 5.084813712851651
+Test MSE:  4.723392915720022
+Test R2 -1.1208681638978168
+===== Reg: Ridge Method: batch Momentum: 0 Theta Init: zero Learning Rate: 0.001 =====
+Fold 0: 31.87957961799713
+Fold 1: 31.357308202754787
+Fold 2: 31.56825265649365
+Test MSE:  30.889180545165726
+Test R2 -21.754986029048087
+===== Reg: Ridge Method: batch Momentum: 0 Theta Init: zero Learning Rate: 0.0001 =====
+Fold 0: 140.36404327706967
+Fold 1: 139.6893331136281
+Fold 2: 139.86320205906807
+Test MSE:  139.41814915383617
+Test R2 -3503.5607615237896
+===== Reg: Ridge Method: batch Momentum: 0.9 Theta Init: zero Learning Rate: 0.01 =====
+Fold 0: 31.92544316935595
+Fold 1: 31.404990857552658
+Fold 2: 31.61606613883004
+Test MSE:  30.93857948497155
+Test R2 -21.961545571776497
+===== Reg: Ridge Method: batch Momentum: 0.9 Theta Init: zero Learning Rate: 0.001 =====
+Fold 0: 139.94281037833528
+Fold 1: 139.26817025038093
+Fold 2: 139.44230976181944
+Test MSE:  138.9952752522456
+Test R2 -3393.6946457879953
+===== Reg: Ridge Method: batch Momentum: 0.9 Theta Init: zero Learning Rate: 0.0001 =====
+Fold 0: 166.4143865867088
+Fold 1: 165.73639284489408
+Fold 2: 165.89630019682906
+Test MSE:  165.58767253002424
+Test R2 -356673.4251242016
+===== Reg: Ridge Method: sto Momentum: 0 Theta Init: zero Learning Rate: 0.01 =====
+Fold 0: 4.786139831732056
+Fold 1: 4.4606281549237625
+Fold 2: 5.5108664647896894
+Test MSE:  5.057052429565117
+Test R2 -1.7166317819950447
+===== Reg: Ridge Method: sto Momentum: 0 Theta Init: zero Learning Rate: 0.001 =====
+Fold 0: 4.817170449840877
+Fold 1: 4.604204048789649
+Fold 2: 4.690153899098086
+Test MSE:  4.370474431297988
+Test R2 -1.2965279090392778
+===== Reg: Ridge Method: sto Momentum: 0 Theta Init: zero Learning Rate: 0.0001 =====
+Fold 0: 4.7289065065028995
+Fold 1: 4.551815265553155
+Fold 2: 4.669128644665414
+Test MSE:  4.346048123774854
+Test R2 -1.2540369372809401
+===== Reg: Ridge Method: sto Momentum: 0.9 Theta Init: zero Learning Rate: 0.01 =====
+Fold 0: 4.709302426328305
+Fold 1: 4.529682049925235
+Fold 2: 4.617934201405788
+Test MSE:  4.274288318379577
+Test R2 -1.1787515833402482
+===== Reg: Ridge Method: sto Momentum: 0.9 Theta Init: zero Learning Rate: 0.001 =====
+Fold 0: 4.72746158885902
+Fold 1: 4.55409898277105
+Fold 2: 4.671037176141785
+Test MSE:  4.345213925908356
+Test R2 -1.2585807304759182
+===== Reg: Ridge Method: sto Momentum: 0.9 Theta Init: zero Learning Rate: 0.0001 =====
+Fold 0: 4.8116443803693665
+Fold 1: 4.724553783026128
+Fold 2: 4.811484398252535
+Test MSE:  4.472487022278386
+Test R2 -1.1983820041017612
+===== Reg: Ridge Method: mini Momentum: 0 Theta Init: zero Learning Rate: 0.01 =====
+Fold 0: 4.737659095312048
+Fold 1: 4.538953964353283
+Fold 2: 4.653925500852052
+Test MSE:  4.322926889211092
+Test R2 -1.2429506838549327
+===== Reg: Ridge Method: mini Momentum: 0 Theta Init: zero Learning Rate: 0.001 =====
+Fold 0: 4.724822765113127
+Fold 1: 4.6230739399675675
+Fold 2: 4.682294774948479
+Test MSE:  4.356247870263522
+Test R2 -1.243402957683399
+===== Reg: Ridge Method: mini Momentum: 0 Theta Init: zero Learning Rate: 0.0001 =====
+Fold 0: 5.020350276099737
+Fold 1: 4.841613302489368
+Fold 2: 4.9696925631262046
+Test MSE:  4.617063095794638
+Test R2 -1.1485469218770432
+===== Reg: Ridge Method: mini Momentum: 0.9 Theta Init: zero Learning Rate: 0.01 =====
+Fold 0: 4.7067912010441395
+Fold 1: 4.5567058541754095
+Fold 2: 4.661320667799471
+Test MSE:  4.337734681966242
+Test R2 -1.2494760001333023
+===== Reg: Ridge Method: mini Momentum: 0.9 Theta Init: zero Learning Rate: 0.001 =====
+Fold 0: 5.167557801794942
+Fold 1: 5.104044720528096
+Fold 2: 5.213839327578289
+Test MSE:  4.843780886281205
+Test R2 -1.1060876909886135
+===== Reg: Ridge Method: mini Momentum: 0.9 Theta Init: zero Learning Rate: 0.0001 =====
+Fold 0: 23.219716499107534
+Fold 1: 22.748361659343253
+Fold 2: 22.951755468552918
+Test MSE:  22.314188234028084
+Test R2 -12.648729570745706
+===== Reg: Ridge Method: batch Momentum: 0 Theta Init: xavier Learning Rate: 0.01 =====
+Fold 0: 5.135900819884923
+Fold 1: 4.953720050047412
+Fold 2: 5.083786322424791
+Test MSE:  4.722179270360794
+Test R2 -1.1212885403235173
+===== Reg: Ridge Method: batch Momentum: 0 Theta Init: xavier Learning Rate: 0.001 =====
+Fold 0: 32.008831915995216
+Fold 1: 31.4907580550749
+Fold 2: 31.69771299891601
+Test MSE:  31.01793630713844
+Test R2 -21.840858150642912
+===== Reg: Ridge Method: batch Momentum: 0 Theta Init: xavier Learning Rate: 0.0001 =====
+Fold 0: 141.13808495561327
+Fold 1: 140.4916786939716
+Fold 2: 140.6388528283271
+Test MSE:  140.20145677019946
+Test R2 -3469.8728430748583
+===== Reg: Ridge Method: batch Momentum: 0.9 Theta Init: xavier Learning Rate: 0.01 =====
+Fold 0: 32.05179662539573
+Fold 1: 31.53850390134857
+Fold 2: 31.74815792587213
+Test MSE:  31.06976586317158
+Test R2 -22.056305068705097
+===== Reg: Ridge Method: batch Momentum: 0.9 Theta Init: xavier Learning Rate: 0.001 =====
+Fold 0: 140.71483259035222
+Fold 1: 140.05539732134426
+Fold 2: 140.21940893173215
+Test MSE:  139.78141320459562
+Test R2 -3380.2297552010973
+===== Reg: Ridge Method: batch Momentum: 0.9 Theta Init: xavier Learning Rate: 0.0001 =====
+Fold 0: 167.3489703073272
+Fold 1: 166.66783768183015
+Fold 2: 166.83734517771143
+Test MSE:  166.53979716192993
+Test R2 -120703.9012442087
+===== Reg: Ridge Method: sto Momentum: 0 Theta Init: xavier Learning Rate: 0.01 =====
+Fold 0: 4.97828288936636
+Fold 1: 4.7626393650197025
+Fold 2: 5.239738388291218
+Test MSE:  4.779282702117325
+Test R2 -1.4912511280351324
+===== Reg: Ridge Method: sto Momentum: 0 Theta Init: xavier Learning Rate: 0.001 =====
+Fold 0: 4.623591863394953
+Fold 1: 4.623105878838597
+Fold 2: 4.702703264970479
+Test MSE:  4.369481198622214
+Test R2 -1.322878524860327
+===== Reg: Ridge Method: sto Momentum: 0 Theta Init: xavier Learning Rate: 0.0001 =====
+Fold 0: 4.738584368184593
+Fold 1: 4.547276329344458
+Fold 2: 4.67418404378705
+Test MSE:  4.350800444205979
+Test R2 -1.2544899991293148
+===== Reg: Ridge Method: sto Momentum: 0.9 Theta Init: xavier Learning Rate: 0.01 =====
+Fold 0: 4.6013661285309775
+Fold 1: 4.696401253843012
+Fold 2: 4.76443488999088
+Test MSE:  4.4174517836154985
+Test R2 -1.270228221872033
+===== Reg: Ridge Method: sto Momentum: 0.9 Theta Init: xavier Learning Rate: 0.001 =====
+Fold 0: 4.712568617271972
+Fold 1: 4.55432454640547
+Fold 2: 4.676557038591545
+Test MSE:  4.351836214884707
+Test R2 -1.2538626429879116
+===== Reg: Ridge Method: sto Momentum: 0.9 Theta Init: xavier Learning Rate: 0.0001 =====
+Fold 0: 4.81775450637242
+Fold 1: 4.61946302752561
+Fold 2: 4.742430744607733
+Test MSE:  4.409960287585568
+Test R2 -1.2220534735251443
+===== Reg: Ridge Method: mini Momentum: 0 Theta Init: xavier Learning Rate: 0.01 =====
+Fold 0: 4.68841002075655
+Fold 1: 4.594979493696043
+Fold 2: 4.70489755586794
+Test MSE:  4.380331044629542
+Test R2 -1.2735320699350412
+===== Reg: Ridge Method: mini Momentum: 0 Theta Init: xavier Learning Rate: 0.001 =====
+Fold 0: 4.7337401962583785
+Fold 1: 4.566895009969631
+Fold 2: 4.70343833320157
+Test MSE:  4.374951269973071
+Test R2 -1.236417474290545
+===== Reg: Ridge Method: mini Momentum: 0 Theta Init: xavier Learning Rate: 0.0001 =====
+Fold 0: 5.019557197306106
+Fold 1: 4.840897920627271
+Fold 2: 4.969164455799709
+Test MSE:  4.616344134469666
+Test R2 -1.1488592735625245
+===== Reg: Ridge Method: mini Momentum: 0.9 Theta Init: xavier Learning Rate: 0.01 =====
+Fold 0: 4.734663145917713
+Fold 1: 4.551335987601797
+Fold 2: 4.67578895012833
+Test MSE:  4.35071925327984
+Test R2 -1.2488450359043632
+===== Reg: Ridge Method: mini Momentum: 0.9 Theta Init: xavier Learning Rate: 0.001 =====
+Fold 0: 5.27182238849939
+Fold 1: 5.1132240543125675
+Fold 2: 5.169296104586281
+Test MSE:  4.801948026981234
+Test R2 -1.1110335584549853
+===== Reg: Ridge Method: mini Momentum: 0.9 Theta Init: xavier Learning Rate: 0.0001 =====
+Fold 0: 23.30170695705646
+Fold 1: 22.83145524067648
+Fold 2: 23.03381640556175
+Test MSE:  22.39487717916294
+Test R2 -12.697078207203026
+===== Reg: Normal Method: batch Momentum: 0 Theta Init: zero Learning Rate: 0.01 =====
+Fold 0: 3.0340428963958126
+Fold 1: 2.9169062043594574
+Fold 2: 3.009496544225504
+Test MSE:  2.7512139243250138
+Test R2 -0.05947062907818257
+===== Reg: Normal Method: batch Momentum: 0 Theta Init: zero Learning Rate: 0.001 =====
+Fold 0: 28.664087511809893
+Fold 1: 28.155688787934906
+Fold 2: 28.36421876703206
+Test MSE:  27.695054204371687
+Test R2 -17.851269944202464
+===== Reg: Normal Method: batch Momentum: 0 Theta Init: zero Learning Rate: 0.0001 =====
+Fold 0: 140.22711400526373
+Fold 1: 139.5524345759875
+Fold 2: 139.726373573062
+Test MSE:  139.28064299732938
+Test R2 -3466.076780508628
+===== Reg: Normal Method: batch Momentum: 0.9 Theta Init: zero Learning Rate: 0.01 =====
+Fold 0: 28.63061190888896
+Fold 1: 28.124571954383015
+Fold 2: 28.33318278854667
+Test MSE:  27.665935233707085
+Test R2 -17.946851028086588
+===== Reg: Normal Method: batch Momentum: 0.9 Theta Init: zero Learning Rate: 0.001 =====
+Fold 0: 139.79705147920546
+Fold 1: 139.1224443188086
+Fold 2: 139.2966589058329
+Test MSE:  138.84890570072085
+Test R2 -3355.5431767375735
+===== Reg: Normal Method: batch Momentum: 0.9 Theta Init: zero Learning Rate: 0.0001 =====
+Fold 0: 166.41267720169898
+Fold 1: 165.73468356081557
+Fold 2: 165.89459180786326
+Test MSE:  165.5859546420435
+Test R2 -356295.81128141284
+===== Reg: Normal Method: sto Momentum: 0 Theta Init: zero Learning Rate: 0.01 =====
+Fold 0: 0.18851059902112766
+Fold 1: 0.14037733130310143
+Fold 2: 0.14139833022795362
+Test MSE:  0.15244639029930665
+Test R2 0.7662385947550765
+===== Reg: Normal Method: sto Momentum: 0 Theta Init: zero Learning Rate: 0.001 =====
+Fold 0: 0.15530766792632994
+Fold 1: 0.13848078271426054
+Fold 2: 0.14108111943262405
+Test MSE:  0.13873331611466447
+Test R2 0.7539720965051242
+===== Reg: Normal Method: sto Momentum: 0 Theta Init: zero Learning Rate: 0.0001 =====
+Fold 0: 0.15137141153288605
+Fold 1: 0.13799341778551757
+Fold 2: 0.142951429323578
+Test MSE:  0.13901122144650677
+Test R2 0.7536111484777612
+===== Reg: Normal Method: sto Momentum: 0.9 Theta Init: zero Learning Rate: 0.01 =====
+Fold 0: 0.1555318046429208
+Fold 1: 0.1377368150357471
+Fold 2: 0.14051156690870498
+Test MSE:  0.1395298692856985
+Test R2 0.7474275894070541
+===== Reg: Normal Method: sto Momentum: 0.9 Theta Init: zero Learning Rate: 0.001 =====
+Fold 0: 0.15117251057555522
+Fold 1: 0.13788185396477054
+Fold 2: 0.14378612213323994
+Test MSE:  0.13957731242733815
+Test R2 0.7510235145016515
+===== Reg: Normal Method: sto Momentum: 0.9 Theta Init: zero Learning Rate: 0.0001 =====
+Fold 0: 0.9894406889510471
+Fold 1: 0.9349040232385084
+Fold 2: 0.9913181697991956
+Test MSE:  0.8958840137060172
+Test R2 0.13150777789495727
+===== Reg: Normal Method: mini Momentum: 0 Theta Init: zero Learning Rate: 0.01 =====
+Fold 0: 0.15188945082992
+Fold 1: 0.1374620432948302
+Fold 2: 0.14153117991494693
+Test MSE:  0.13899722602693174
+Test R2 0.7500561114350695
+===== Reg: Normal Method: mini Momentum: 0 Theta Init: zero Learning Rate: 0.001 =====
+Fold 0: 0.16604167540655052
+Fold 1: 0.15287137405362444
+Fold 2: 0.162097083076448
+Test MSE:  0.15488544498494713
+Test R2 0.7155902825074281
+===== Reg: Normal Method: mini Momentum: 0 Theta Init: zero Learning Rate: 0.0001 =====
+Fold 0: 2.726889563256273
+Fold 1: 2.617411132249025
+Fold 2: 2.708165236288525
+Test MSE:  2.469377829264214
+Test R2 -0.044163712427227386
+===== Reg: Normal Method: mini Momentum: 0.9 Theta Init: zero Learning Rate: 0.01 =====
+Fold 0: 0.16596093594042394
+Fold 1: 0.15293688646698464
+Fold 2: 0.16209544929222638
+Test MSE:  0.15493068734273044
+Test R2 0.7165670019645587
+===== Reg: Normal Method: mini Momentum: 0.9 Theta Init: zero Learning Rate: 0.001 =====
+Fold 0: 2.7268107126801326
+Fold 1: 2.6171285704123344
+Fold 2: 2.708127990101278
+Test MSE:  2.4692538881349897
+Test R2 -0.04357613976937835
+===== Reg: Normal Method: mini Momentum: 0.9 Theta Init: zero Learning Rate: 0.0001 =====
+Fold 0: 19.752321193549736
+Fold 1: 19.303280881511522
+Fold 2: 19.50117449914144
+Test MSE:  18.88432617919738
+Test R2 -9.525567150442079
+===== Reg: Normal Method: batch Momentum: 0 Theta Init: xavier Learning Rate: 0.01 =====
+Fold 0: 3.031109241583851
+Fold 1: 2.914222857604658
+Fold 2: 3.007111331733599
+Test MSE:  2.748248496233875
+Test R2 -0.05948647763638992
+===== Reg: Normal Method: batch Momentum: 0 Theta Init: xavier Learning Rate: 0.001 =====
+Fold 0: 28.795951266395907
+Fold 1: 28.290280854707458
+Fold 2: 28.500154746276035
+Test MSE:  27.829887700935195
+Test R2 -17.93331471868376
+===== Reg: Normal Method: batch Momentum: 0 Theta Init: xavier Learning Rate: 0.0001 =====
+Fold 0: 141.01266119677047
+Fold 1: 140.35370584345765
+Fold 2: 140.5144731949547
+Test MSE:  140.07698831838277
+Test R2 -3452.968272811102
+===== Reg: Normal Method: batch Momentum: 0.9 Theta Init: xavier Learning Rate: 0.01 =====
+Fold 0: 28.76271516648369
+Fold 1: 28.258590454294726
+Fold 2: 28.467571530732908
+Test MSE:  27.799093002640465
+Test R2 -18.036946580542622
+===== Reg: Normal Method: batch Momentum: 0.9 Theta Init: xavier Learning Rate: 0.001 =====
+Fold 0: 140.5724470744861
+Fold 1: 139.9026909050629
+Fold 2: 140.0829001253546
+Test MSE:  139.6432359864131
+Test R2 -3337.414648974858
+===== Reg: Normal Method: batch Momentum: 0.9 Theta Init: xavier Learning Rate: 0.0001 =====
+Fold 0: 167.36522439557757
+Fold 1: 166.69687738436429
+Fold 2: 166.8416428506069
+Test MSE:  166.54383928526926
+Test R2 -121570.83354219906
+===== Reg: Normal Method: sto Momentum: 0 Theta Init: xavier Learning Rate: 0.01 =====
+Fold 0: 0.14975058195600574
+Fold 1: 0.14847367676597148
+Fold 2: 0.14096471448372902
+Test MSE:  0.1416403075836599
+Test R2 0.7330342168052022
+===== Reg: Normal Method: sto Momentum: 0 Theta Init: xavier Learning Rate: 0.001 =====
+Fold 0: 0.15152074977378766
+Fold 1: 0.1375946392458222
+Fold 2: 0.14239368164371463
+Test MSE:  0.13870882535633255
+Test R2 0.7589047939394724
+===== Reg: Normal Method: sto Momentum: 0 Theta Init: xavier Learning Rate: 0.0001 =====
+Fold 0: 0.15124872837277248
+Fold 1: 0.138027794626779
+Fold 2: 0.1422310449188318
+Test MSE:  0.13856633828680825
+Test R2 0.7557367336789058
+===== Reg: Normal Method: sto Momentum: 0.9 Theta Init: xavier Learning Rate: 0.01 =====
+Fold 0: 0.15172528785155628
+Fold 1: 0.13865188989662755
+Fold 2: 0.13875505528941545
+Test MSE:  0.14118259957112322
+Test R2 0.75320814492323
+===== Reg: Normal Method: sto Momentum: 0.9 Theta Init: xavier Learning Rate: 0.001 =====
+Fold 0: 0.1514210031475722
+Fold 1: 0.13988003807914187
+Fold 2: 0.14328764252137713
+Test MSE:  0.139238601169105
+Test R2 0.7525737929557321
+===== Reg: Normal Method: sto Momentum: 0.9 Theta Init: xavier Learning Rate: 0.0001 =====
+Fold 0: 0.9887820848995965
+Fold 1: 0.9341931796486916
+Fold 2: 0.9907587601154414
+Test MSE:  0.8953319608110311
+Test R2 0.131576934941118
+===== Reg: Normal Method: mini Momentum: 0 Theta Init: xavier Learning Rate: 0.01 =====
+Fold 0: 0.16438510211839127
+Fold 1: 0.13746272868619924
+Fold 2: 0.14220739440161564
+Test MSE:  0.13842009892383375
+Test R2 0.7554764515194528
+===== Reg: Normal Method: mini Momentum: 0 Theta Init: xavier Learning Rate: 0.001 =====
+Fold 0: 0.1660170919349192
+Fold 1: 0.15285945125778877
+Fold 2: 0.16207569391214738
+Test MSE:  0.15487053349617402
+Test R2 0.7154706403609423
+===== Reg: Normal Method: mini Momentum: 0 Theta Init: xavier Learning Rate: 0.0001 =====
+Fold 0: 2.724695277342961
+Fold 1: 2.615009789797237
+Fold 2: 2.7062484938162368
+Test MSE:  2.467025762165119
+Test R2 -0.04418124062151274
+===== Reg: Normal Method: mini Momentum: 0.9 Theta Init: xavier Learning Rate: 0.01 =====
+Fold 0: 0.16597518552964338
+Fold 1: 0.1528788698667125
+Fold 2: 0.16212235453582938
+Test MSE:  0.1548513753900008
+Test R2 0.7148021566028195
+===== Reg: Normal Method: mini Momentum: 0.9 Theta Init: xavier Learning Rate: 0.001 =====
+Fold 0: 2.7246556897247207
+Fold 1: 2.615125261455771
+Fold 2: 2.706024331040354
+Test MSE:  2.467036389910495
+Test R2 -0.04438659490641128
+===== Reg: Normal Method: mini Momentum: 0.9 Theta Init: xavier Learning Rate: 0.0001 =====
+Fold 0: 19.835057233788483
+Fold 1: 19.387595481711017
+Fold 2: 19.588118352785198
+Test MSE:  18.969374810892415
+Test R2 -9.571642048984284
+
