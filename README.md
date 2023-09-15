@@ -129,8 +129,8 @@ Finally, we come with the **Normal Linear Regression model** works better in our
  - Learning Rate: 0.001
  ```
  The choosen **Normal Linear Regression model**'s Accuracy- 
-  - MSE 0.13870882535633255
-  - R^2 0.7589047939394724
+  - MSE 0.13870882535633300
+  - R^2 0.7589047939394720
 
 
 ### Evaluation
