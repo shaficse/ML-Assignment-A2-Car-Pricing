@@ -99,45 +99,41 @@ The Correlation Matrix of the features-
 
 ## Best Model selection
 
-The data is trained on Linear Regression, SVM, KNeighbors Regressor, Decision-Tree Regressor, Random-Forest Regressor with hyper-parmeter tuning(using grid search). Random-Forest Regressor turn out be best model with lowest loss of 0.072.
-
 ### Metric 
 
-* **Mean Squared Error** (MSE) and R^2  are used as metrice.
+* **Mean Squared Error** (MSE) and **R^2**  are used as metrice.
+
 * MSE measures the average squared difference between the predicted and actual values. It gives us an idea of how close the predicted values are to the actual values. Lower MSE indicates better model performance.
+
 * R^2 is a value between 0 and 1 where
      - 0 inidicates model does not explain any of the variability in the target variable.
      - 1 indicate that the model perfectly explains the variability in the target variable.
 
 
 
-
-### Best parametes
-
-```
 We check the following each of the combination - 
+```
  - regs = ["Polynomial", "Lasso", "Ridge",'Normal']
  - init_thetas = ['zero','xavier']
  - methods = ['batch', 'sto','mini']
  - momentums = [0, 0.7]
  - lr_li =  [0.01, 0.001, 0.0001]
+```
+From MLFLOW logs checking, among 101 various runs based on the above all the configuration. 
 
-From MLFLOW logs checking, among 101 various runs. We check polynomial. Lasso and Normal Lineare regression. 
-
-Among all of them, we come with the Normal Linear Regression model works better in our case with  below configuratrion- 
+Finally, we come with the **Normal Linear Regression model** works better in our case with  below configuratrion- 
+```
  - Method: stochastic 
  - Momentum: 0 
  - Theta Init: xavier 
  - Learning Rate: 0.001
- 
- The choosen model's Accuracy- 
+ ```
+ The choosen **Normal Linear Regression model**'s Accuracy- 
   - MSE 0.13870882535633255
   - R^2 0.7589047939394724
- ```
+
 
 ### Evaluation
-
-- **The  Picked Model's test accuracy of Mean Squared Error (MSE) is 0.13870882535633255, while R^2 is 0.7589047939394724.** 
 
 It seems a test MSE of 0.13870882535633255 and a test R^2 score of 0.7589047939394724 can be considered good in many cases, but the ultimate judgment should be based on the unique characteristics and requirements of the problem.
 
