@@ -135,7 +135,7 @@ Finally, we come with the **Normal Linear Regression model** works better in our
 
 ### Evaluation
 
-It seems a test MSE of 0.13870882535633255 and a test R^2 score of 0.7589047939394724 can be considered good in many cases, but the ultimate judgment should be based on the unique characteristics and requirements of the problem.
+It seems a test MSE of 0.13870882535633300 and a test R^2 score of 0.7589047939394720 can be considered good in many cases, but the ultimate judgment should be based on the unique characteristics and requirements of the problem.
 
 #### Some of the runs from MLFLOW and the comparison of various runs with their test mse and r^2 scores
 ![](snapshots/MLflow-runs.png)
